@@ -9,6 +9,7 @@
 
 [![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSafwan456&theme=tokyonight)](https://github.com/MuhammadSafwan456)
 
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=MuhammadSafwan456)](https://github.com/MuhammadSafwan456)
 
 <!--
 **MuhammadSafwan456/MuhammadSafwan456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
