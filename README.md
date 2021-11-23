@@ -4,12 +4,16 @@
 
 [![My Stack Overflow](https://github-readme-stackoverflow.vercel.app/?userID=7874693&layout=compact&theme=dark)](https://stackoverflow.com/users/7874693/muhammad-safwan)
 
+
+
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=MuhammadSafwan456)](https://github.com/MuhammadSafwan456)
+
+
 [![My Github](https://github-readme-stats.vercel.app/api?username=MuhammadSafwan456&show_icons=true&count_private=true&hide=issues&theme=tokyonight)](https://github.com/MuhammadSafwan456)
 
 
 [![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSafwan456&theme=tokyonight)](https://github.com/MuhammadSafwan456)
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=MuhammadSafwan456)](https://github.com/MuhammadSafwan456)
 
 <!--
 **MuhammadSafwan456/MuhammadSafwan456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
