@@ -3,9 +3,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MuhammadSafwan456&hide=issues&show_icons=true&count_private=true&theme=tokyonight"/></p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSafwan456&layout=compact&theme=tokyonight&&hide=jupyterNotebook)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSafwan456&theme=tokyonight)
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSafwan456&layout=compact&theme=tokyonight&&hide=jupyterNotebook"/></p>
+<br>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSafwan456&theme=tokyonight"/></p>
 
 
 <!--
