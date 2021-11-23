@@ -1,9 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Muhammad Safwan</h1>
 <h3 align="center">Backend Engineer | Python Developer </h3>
 
-<div>
  [![Safwan's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7874693&theme=dark&layout=compact)](https://stackoverflow.com/users/7874693/muhammad-safwan)
-
+<div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadSafwan456&hide=issues&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSafwan456&theme=tokyonight"/></p>
   
