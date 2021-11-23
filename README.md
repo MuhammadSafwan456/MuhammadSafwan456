@@ -7,7 +7,7 @@
 
 
 <h4>My Github Stats</h4>
-[![Safwan Github](https://github-readme-stats.vercel.app/api?username=MuhammadSafwan456&show_icons=true&count_private=true&hide=issues&theme=tokyonight)](https://stackoverflow.com/users/7874693/muhammad-safwan)
+[![Safwan Github](https://github-readme-stats.vercel.app/api?username=MuhammadSafwan456&show_icons=true&count_private=true&hide=issues&theme=tokyonight)]
 
 
 <!--
