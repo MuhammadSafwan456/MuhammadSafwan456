@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSafwan456&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSafwan456&layout=compact&theme=tokyonight)
 <!--
 **MuhammadSafwan456/MuhammadSafwan456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
