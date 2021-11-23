@@ -2,7 +2,7 @@
 <h3 align="center">Backend Engineer | Python Developer </h3>
 <h4>My Stack Overflow Stats</h4>
 
-[![My Stack Overflow](https://github-readme-stackoverflow.vercel.app/?userID=7874693&layout=compact&theme=dark)](https://stackoverflow.com/users/7874693/muhammad-safwan)
+[![My Stack Overflow](https://github-readme-stackoverflow.vercel.app/?userID=7874693&layout=compact&theme=react-dark)](https://stackoverflow.com/users/7874693/muhammad-safwan)
 
 
 
