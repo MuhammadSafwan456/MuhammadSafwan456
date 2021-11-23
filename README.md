@@ -6,7 +6,7 @@
 
 
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=MuhammadSafwan456&theme=react-dark)](https://github.com/MuhammadSafwan456)
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=MuhammadSafwan456&theme=react-dark&include_all_commits=true)](https://github.com/MuhammadSafwan456)
 
 
 [![My Github](https://github-readme-stats.vercel.app/api?username=MuhammadSafwan456&show_icons=true&count_private=true&hide=issues&theme=tokyonight)](https://github.com/MuhammadSafwan456)
