@@ -2,12 +2,12 @@
 <h3 align="center">Backend Engineer | Python Developer </h3>
 <h4>My Stack Overflow Stats</h4>
 
-[(https://github-readme-stackoverflow.vercel.app/?userID=7874693&layout=compact&theme=dark)](https://stackoverflow.com/users/7874693/muhammad-safwan)
+[![My Stack Overflow](https://github-readme-stackoverflow.vercel.app/?userID=7874693&layout=compact&theme=dark)](https://stackoverflow.com/users/7874693/muhammad-safwan)
 
-[![Safwan Github](https://github-readme-stats.vercel.app/api?username=MuhammadSafwan456&show_icons=true&count_private=true&hide=issues&theme=tokyonight)](https://github.com/MuhammadSafwan456)
+[![My Github](https://github-readme-stats.vercel.app/api?username=MuhammadSafwan456&show_icons=true&count_private=true&hide=issues&theme=tokyonight)](https://github.com/MuhammadSafwan456)
 
 
-[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tahirs95&theme=dark)](https://git.io/streak-stats)
+[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSafwan456&theme=tokyonight)](https://github.com/MuhammadSafwan456)
 
 
 <!--
