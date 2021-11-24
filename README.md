@@ -3,6 +3,9 @@
 <h4>My Stack Overflow Stats</h4>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
