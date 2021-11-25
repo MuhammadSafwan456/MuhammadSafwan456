@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Muhammad Safwan</h1>
 <h3 align="center">Backend Engineer | Python Developer </h3>
-<h4>My Stack Overflow Stats</h4>
 
+<h4>I mostly work on</h4>
 <!--START_SECTION:waka-->
 ```text
 Python   6 hrs 2 mins    ███████████████████████▒░   93.03 % 
@@ -9,7 +9,7 @@ JSON     15 mins         █░░░░░░░░░░░░░░░░░�
 Text     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 ```
 <!--END_SECTION:waka-->
-
+<h4>My Stack Overflow Stats</h4>
 
 [![My Stack Overflow](https://github-readme-stackoverflow.vercel.app/?userID=7874693&layout=compact&theme=dark)](https://stackoverflow.com/users/7874693/muhammad-safwan)
 
