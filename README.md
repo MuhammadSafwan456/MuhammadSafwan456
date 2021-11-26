@@ -8,22 +8,22 @@
 
 <h4>I mostly work on</h4>
 <!--START_SECTION:waka-->
-```text
+
 Python       11 hrs 32 mins  ███████████████████████▓░   94.71 % 
-<br>
+<br><br>
 JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-<br>
+<br><br>
 Text         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-<br>
+<br><br>
 Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-<br>
+<br><br>
 Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-```
+
 <!--END_SECTION:waka-->
 
 
 
-
+<br>
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=MuhammadSafwan456&theme=react-dark)](https://github.com/MuhammadSafwan456)
 
 
