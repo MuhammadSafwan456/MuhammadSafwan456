@@ -8,11 +8,15 @@
 
 <h4>I mostly work on</h4>
 <!--START_SECTION:waka-->
-```text
+
 Python       15 hrs 37 mins  ████████████████████████░   95.74 % 
+
 JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+
 Text         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+
 Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+
 Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 <!--END_SECTION:waka-->
