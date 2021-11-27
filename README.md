@@ -22,8 +22,6 @@ Git Config   1 min           ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-
-<br>
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=MuhammadSafwan456&theme=react-dark)](https://github.com/MuhammadSafwan456)
 
 
