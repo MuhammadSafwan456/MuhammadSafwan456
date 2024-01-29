@@ -1,11 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Muhammad Safwan</h1>
 <h3 align="center">Backend Engineer | Python Developer </h3>
 
-<h4>My Stack Overflow Stats</h4>
-
-
-[![My Stack Overflow](https://github-readme-stackoverflow.vercel.app/?userID=7874693&layout=compact&theme=dark)](https://stackoverflow.com/users/7874693/muhammad-safwan)
-
 
 <h4>I mostly work on</h4>
 
@@ -16,6 +11,11 @@
 
 
 [![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSafwan456&theme=tokyonight)](https://github.com/MuhammadSafwan456)
+
+<h4>My Stack Overflow Stats</h4>
+
+
+[![My Stack Overflow](https://github-readme-stackoverflow.vercel.app/?userID=7874693&layout=compact&theme=dark)](https://stackoverflow.com/users/7874693/muhammad-safwan)
 
 
 <!--
