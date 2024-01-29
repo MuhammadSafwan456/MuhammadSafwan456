@@ -11,6 +11,7 @@
 
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=MuhammadSafwan456&theme=react-dark)](https://github.com/MuhammadSafwan456)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSafwan456&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/tahirs95/github-readme-stats)
 
 
 [![My Github](https://github-readme-stats.vercel.app/api?username=MuhammadSafwan456&show_icons=true&count_private=true&hide=issues&theme=tokyonight&include_all_commits=true)](https://github.com/MuhammadSafwan456)
